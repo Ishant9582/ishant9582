@@ -1,10 +1,9 @@
-# 💫 About Me
-👋 Hi, I'm **Ishant** — a Fullstack MERN Developer & B.Tech IT student passionate about crafting robust, scalable web applications and understanding how systems work under the hood.
+👋 Hi, I'm Ishant — a Fullstack MERN Developer and B.Tech IT student with a strong foundation in modern web technologies and a passion for building secure, performant, and user-friendly applications.
 
-💻 **Currently learning:** Advanced DSA, DevOps fundamentals  
-🚀 **Working on:** MERN projects, automation workflows  
-🎯 **Goal:** Build intuitive, scalable apps and grow into a developer who understands both the “why” and the “how”  
-📚 **Interests:** AI, web performance, network internals, automation
+💻 Currently exploring: Advanced Data Structures & Algorithms, scalable backend design
+🚀 Actively building: Mern projects 
+🎯 Long-term goal: To architect reliable systems and craft experiences that are as intuitive as they are powerful
+📚 Tech passions: System architecture, authentication flows, API integration, frontend performance, and emerging AI use cases
 
 ---
 
