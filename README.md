@@ -34,7 +34,7 @@
 
 ---
 
-### 🔥 Streaks & Stats (because we love validation)
+### 🔥 Streaks & Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ishant9582&show_icons=true&theme=radical" />
