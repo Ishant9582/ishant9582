@@ -1,5 +1,5 @@
 # 💫 About Me
-👋 Hi, I'm **Ishant** — a Fullstack MERN Developer | Tech Enthusiast | & B.Tech IT student passionate about crafting robust, scalable web applications and understanding how systems work under the hood.
+👋 Hi, I'm **Ishant** — a Fullstack MERN Developer & B.Tech IT student passionate about crafting robust, scalable web applications and understanding how systems work under the hood.
 
 💻 **Currently learning:** Advanced DSA, DevOps fundamentals  
 🚀 **Working on:** MERN projects, automation workflows  
